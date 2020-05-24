@@ -9,7 +9,7 @@ public class ItemData {
     private String subtitleCategory;
 
     private String subtitle;
-    private boolean pushed;
+    
 
     public ItemData(Drawable image, String title, String subtitleCategory, String subtitle) {
         this.image = image;
